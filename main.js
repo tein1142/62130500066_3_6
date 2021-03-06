@@ -1,33 +1,4 @@
 const constraints = {
-    // firstname: {
-    //     presence: true,
-    // },
-    // lastname: {
-    //     presence: true,
-    // },
-    // age: {
-    //     presence: true,
-    //     numericality: {
-    //         lessThan: 100
-    //     }
-    // },
-    // gender: {
-    //     presence: true,
-    // },
-    // email: {
-    //     presence: true,
-    //     email: true
-    // },
-    // phone: {
-    //     presence: true,
-    //     length: {
-    //         minimum: 10,
-    //         message: "must be at least 10 digits"
-    //     },
-    // },
-    // chosensubject: {
-    //     presence: true
-    // }
 
     firstname: {
         length: {
